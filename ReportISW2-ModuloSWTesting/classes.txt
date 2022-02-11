@@ -1,0 +1,4 @@
+org.apache.bookkeeper.bookie.FileInfo
+org.apache.bookkeeper.client.LedgerHandle
+org.apache.openjpa.jdbc.identifier.DBIdentifierUtilImpl
+org.apache.openjpa.lib.identifier.IdentifierUtilImpl
