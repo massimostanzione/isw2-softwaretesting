@@ -1,0 +1,8 @@
+Istruzioni per eseguire i test:
+
+- Progetto "1+":    mvn test
+- BookKeeper:       mvn test --projects bookkeeper-server
+- OpenJPA:          mvn test --projects openjpa-jdbc,openjpa-lib
+
+
+(per BookKeeper: eventualmente aggiungere "-Pcoverage" per generare rapporto JaCoCo)
